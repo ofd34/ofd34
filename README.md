@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Web Pentest**
 
-- 📫 How to reach me **omerfarukk1@protonmail.com**
+- 📫 How to reach me **omerfarukkj1@protonmail.com**
 
 - 📄 Know about my experiences [Penetration Test and Bug Bounty](Penetration Test and Bug Bounty)
 
