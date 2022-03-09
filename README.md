@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **omerfarukkj1@protonmail.com**
 
-- 📄 Know about my experiences [Penetration Test , Bug Bounty and Scripting](Penetration Test , Bug Bounty and Scripting)
+- 📄 Know about my experiences Penetration Test , Bug Bounty and Scripting
 
 - ⚡ Fun fact **I think I am both very lazy and very hardworking.**
 
