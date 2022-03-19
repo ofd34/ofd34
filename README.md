@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python, Bash, NodeJS , Javascript**
 
-- 💬 Ask me about **Web Pentest**
+- 💬 Ask me about **Web, Mobile, Network Pentest**
 
 - 📫 How to reach me **omerfarukkj1@protonmail.com**
 
