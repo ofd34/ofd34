@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk Duran</h1>
 <h3 align="center">Web, Network Penetration Tester from United States</h3>
 
-- 🔭 I’m currently working on **Python, Bash**
+- 🔭 I’m currently working on **Python, Bash, JavaScript**
 
-- 🌱 I’m currently learning **Python, Bash, NodeJS , Javascript**
+- 🌱 I’m currently learning **Python, Bash, NodeJS , JavaScript**
 
 - 💬 Ask me about **Web, Mobile, Network Pentest**
 
