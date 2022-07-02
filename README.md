@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk Duran</h1>
-<h3 align="center">Web, Network Penetration Tester from United States</h3>
+<h3 align="center">Web, Network Penetration Tester from Turkey</h3>
 
 - 🔭 I’m currently working on **Python, Bash, JavaScript**
 
