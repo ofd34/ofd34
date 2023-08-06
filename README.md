@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Omer Faruk Duran</h1>
 <h3 align="center">Security Expert from Turkiye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ofd34" alt="ofd34" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ofdbbs" target="blank"><img src="https://img.shields.io/twitter/follow/ofdbbs?logo=twitter&style=for-the-badge" alt="ofdbbs" /></a> </p>
 
 - 🔭 I’m currently working on **Pentest***
