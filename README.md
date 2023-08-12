@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Cyber Security , Software Development, Automation...**
 
-- 📝 I regularly write articles on [ofdb34.medium.com]
+- 📝 I regularly write articles on [ofdb34](ofdb34.medium.com)
 
 - 💬 Ask me about **Penetration Testing, Certifications, Security stuffs**
 
