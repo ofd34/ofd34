@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **omerfarukkj1@protonmail.com**
 
-- 📄 Know about my experiences [LinkedIn](linkedin.com/in/%C3%B6mer-faruk-duran-90b1231a7)
+- 📄 Know about my experiences [LinkedIn](https://linkedin.com/in/%C3%B6mer-faruk-duran-90b1231a7)
 
 - ⚡ Fun fact **Hacking**
 
